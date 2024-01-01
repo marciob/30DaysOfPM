@@ -4,17 +4,6 @@
 
 This repository documents my journey through the [#30DaysofPM](https://www.producthunt.com/posts/30-days-of-pm) challenge. Each day, I delve into different aspects of Product Management, from understanding user needs to collaborating with development teams.
 
-## How to Navigate
-
-- The entire journey is documented in a single file: [30 Days of Product Management Challenge](30_Days_of_Product_Management_Challenge.md).
-- Each day is marked with a heading, making it easy to jump to a specific day's learning and reflections.
-
-## Goals
-
-- Deepen my understanding of Product Management.
-- Share insights and learnings with others interested in the field.
-- Apply theoretical concepts to practical, real-world situations.
-
 ## Daily Breakdown
 
 ## [Day 1:](https://30daysofpm.substack.com/p/day1)
