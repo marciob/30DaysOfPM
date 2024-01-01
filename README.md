@@ -1,4 +1,4 @@
-# 30 Days of Product Management Challenge
+# #30DaysOfPM 30 Days of Product Management Challenge
 
 ## Overview
 
