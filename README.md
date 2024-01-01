@@ -12,7 +12,7 @@ This repository documents my journey through the [#30DaysofPM](https://www.produ
 
 <img src="/images/octopus.png" width="500" alt="Octopus Product Manager">
 
-**An Octopus Connecting All Parts:** I like to think of a PM as an octopus connecting all parts of the product to make it work well.
+**An Octopus Connecting All Parts:** I like to think of a PM as an octopus connecting all the parts of the product to make it work well.
 
 ### Who is a Product Manager?
 
