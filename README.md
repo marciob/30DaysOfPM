@@ -16,7 +16,7 @@ This repository documents my journey through a [#30DaysofPM](https://www.product
 
 ### Who is a Product Manager?
 
-**Varied Types Depending on the Product:** The type of person that better fit as a PM can differ significantly depending on the product. For instance, an API product manager needs more technical skills, whereas a consumer focused product manager for a service like Instagram needs to focus more on customer data and feedback.
+**Varied Types Depending on the Product:** The type of person that better fit as a PM can differ significantly depending on the product. For instance, an API product manager needs more technical skills, whereas a consumer focused product manager for a service like Instagram needs to focus more on customer data and market.
 
 ### PM Step by Step:
 
