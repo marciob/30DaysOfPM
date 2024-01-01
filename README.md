@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository documents my journey through the [#30DaysofPM](https://www.producthunt.com/posts/30-days-of-pm) challenge. Each day, I delve into different aspects of Product Management, from understanding user needs to collaborating with development teams.
+This repository documents my journey through a [#30DaysofPM](https://www.producthunt.com/posts/30-days-of-pm) challenge. Each day, I delve into different aspects of Product Management, from understanding user needs to collaborating with development teams.
 
 ## Daily Breakdown
 
