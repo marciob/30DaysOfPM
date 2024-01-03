@@ -28,3 +28,47 @@ This repository documents my journey through the [#30DaysofPM](https://www.produ
 Using the data and market responses, the PM takes cues on how to improve the product and what to do in the next cycle.
 
 ---
+
+## [Day 2:](https://30daysofpm.substack.com/p/day2)
+
+### Myths around Product Management
+
+Today, it was covered some of the myths around Product Management, the conclusions mentioned were:
+
+##### 1. PM is not a strictly defined role
+
+It might be different from company to company, and even from product to product. For example, in a small startup, you might be the only PM, and you will have to do everything from research to design and implementation. In a large company, you might be a PM for a specific feature, and you will have to work with other PMs to make sure the product is cohesive.
+
+##### 2. PM aren't mini-CEOs
+
+PMs are not CEOs, they don't have the final say on the product, and they don't have the power to make decisions on their own. They don't have authority over most of the things. Although, some senior PMs can hire/fire people over their direct reports.
+
+##### 3. PMs don't do only management
+
+PMs are not only managers, they are also people who do the work. Sometimes everything that nobody else wants to do or doesn't know how to do, goes to the PM. They are the ones who have to figure out how to do it.
+
+##### 4. PM is not only about building the product
+
+While building the product is a big part of the job, it's not the only thing that PMs do. There are many other things that PMs do, like talking to customers, doing research, analyzing data, etc.
+
+##### 5. PMs are not the only ones who can have ideas
+
+Although PMs can have ideas, everyone else can have ideas too. In fact, most of the time, the best ideas come from other people, not from PMs.
+
+##### 6. PM is not only for technical people
+
+PMs don't have to be technical, although it might help if they are, but there are a lot of other skills needed to do the job well, like focusing on the user, understanding the market, etc.
+
+##### 7. PM job is not done when the product is released
+
+PMs don't just release the product and then move on to the next one. They have to keep working on it, improving it, gathering feedback, making sure that it's successful, etc.
+
+##### 8. PM is not required only in tech companies
+
+They are needed in other industries too, like healthcare, finance, etc. The real job is to solve problems, and there are problems everywhere.
+
+##### 9. Being a PM is not easy
+
+It requires a lot of work, be attentive to every product meeting, have context on everything, come with solutions, understanding a lot of things, etc.
+
+---
