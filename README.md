@@ -72,3 +72,19 @@ They are needed in other industries too, like healthcare, finance, etc. The real
 It requires a lot of work, be attentive to every product meeting, have context on everything, come with solutions, understanding a lot of things, etc.
 
 ---
+
+## [Day 3:](https://30daysofpm.substack.com/p/day3)
+
+### What is Product Thinking?
+
+It's the process of going from knowing the user's problem to building a product that solves it.
+
+### What is Product Market Fit?
+
+It's when there is a clear need for the product in the market, and the product is the best solution for that need. </br>
+
+### Product Thinking Process
+
+1. **Understand the problem:** This can be done by talking to users, doing research, etc.
+2. **Market Opportunity:** Research if there is an opportunity in the market for the product, how big is the market, how much money can be made, etc.
+3. **Solution:** Sometimes it might come with multiple solutions, then it needs to choose the best one, considering: ROI, limitations, alignment with the company's goals, etc.
