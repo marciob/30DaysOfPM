@@ -110,5 +110,10 @@ Although PMs are not responsible for the business goals, they are responsible fo
 
 - Increasing revenue by increasing the conversion rate to paid user <br>
 - Increasing profit by reducing the cost of the product <br>
+- Improving product quality <br>
+- Enhancing the user experience <br>
+  etc.
+
+Business outcomes come from product outcomes. </br>
 
 ---
