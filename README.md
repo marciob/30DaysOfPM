@@ -88,3 +88,27 @@ It's when there is a clear need for the product in the market, and the product i
 1. **Understand the problem:** This can be done by talking to users, doing research, etc.
 2. **Market Opportunity:** Research if there is an opportunity in the market for the product, how big is the market, how much money can be made, etc.
 3. **Solution:** Sometimes it might come with multiple solutions, then it needs to choose the best one, considering: ROI, limitations, alignment with the company's goals, etc.
+
+---
+
+## [Day 4:](https://30daysofpm.substack.com/p/day4)
+
+### Business Goals
+
+Business goals are important, some of them are:
+
+- **Increase revenue**
+- **Increase profit**
+- **Increase market share**
+- **Increase market share**
+
+The PM is key in order to keep reaching and increasing them. </br>
+
+#### Products Outcomes
+
+Although PMs are not responsible for the business goals, they are responsible for the product outcomes, which can lead to the business goals. Some examples: </br>
+
+- Increasing revenue by increasing the conversion rate to paid user <br>
+- Increasing profit by reducing the cost of the product <br>
+
+---
