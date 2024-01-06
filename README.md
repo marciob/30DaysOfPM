@@ -117,3 +117,42 @@ Although PMs are not responsible for the business goals, they are responsible fo
 Business outcomes come from product outcomes. </br>
 
 ---
+
+### [Day 5:](https://30daysofpm.substack.com/p/day5)
+
+### Discoverying the real problem from the user
+
+Many PMs don't understand the real problem that the user has, or at least all the problems. </br>
+
+#### The "Why" Framework
+
+The "Why" framework is a way to get to the root of the problem. It consists of asking "Why" multiple times until you get to the root of the problem. That number is just indicative, sometimes even 3 times is enough. </br>
+
+#### Examples:
+
+**Case 1:** The user often experiences the app crashing and slow performance. </br>
+
+1st Why? Answer: The server storage is insuficient. </br>
+2nd Why? Answer: The server is not scaled to support increasing user demands. </br>
+3rd Why? Answer: The wasn't monitorization of the server usage and perfomance optimization. </br>
+4th Why? Answer: The team didn't have visibility of the server usage. </br>
+5th Why? Answer: The didn't have the tools to monitorize the server usage. </br>
+
+**_Root Cause:_** The team didn't have the tools to monitorize the server usage, preventing them to know when to scale the server. </br>
+
+**Case 2:** The app crashed again. </br>
+
+1st Why? Answer: It was pushed a new API to the server recently. </br>
+2nd Why? Answer: Because we launched a new feature that probably didn' use the API correctly. </br>
+3rd Why? Answer: We have an engeenering who doesn't know how to use the API. </br>
+4th Why? Answer: He never was trained on how to use the API. </br>
+5th Why? Answer: The manager wanted to get him in production as soon as possible. </br>
+
+**_Root Cause:_** Untrained engineer was pushed to production. </br>
+
+### Best practices while applying the "Why" framework
+
+1. Listen more than you talk. </br>
+2. Formulate open-ended 'why' questions. </br>
+3. Be ready to challenge the assumptions, encourage critical thinking. </br>
+4. Iterate and refine. As you encounter the root cause, re-evaluate everything to make sure you are getting the deepest root cause. </br>
