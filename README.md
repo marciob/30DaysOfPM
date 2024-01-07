@@ -183,3 +183,18 @@ It's like a topic within Product Thinking. </br>
 7. **Verify the tests:** Verify the tests with the users to analyze if the proposed solution is solving the problem. </br>
 
 ---
+
+### [Day 7:](https://30daysofpm.substack.com/p/day7)
+
+### Design Thinking
+
+It's a mindset approach to solve problems in a creative way focusing on the person who has the problem. </br>
+So it's a way to solve problems in a user-centric way, instead of problem-based. </br>
+
+#### Design Thinking Steps
+
+1. **Empathize:** By understanding the person affected by the problem you can find a more impactful solution. It uses also data through the research. </br>
+2. **Define:** Once you have accumulated enough data, you can define the problem statements. There are a lot of methods to do it. </br>
+3. **Ideate:** Brainstorming ideas to solve the problem. </br>
+4. **Prototype:** Create a prototype to investigate the ideas. </br>
+5. **Test:** Test the prototype with the users to see if it solves the problem. This phase is experimental, so it isn't about perfection, but seeing which parts work and which don't. </br>
