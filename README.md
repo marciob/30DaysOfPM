@@ -156,3 +156,30 @@ The "Why" framework is a way to get to the root of the problem. It consists of a
 2. Formulate open-ended 'why' questions. </br>
 3. Be ready to challenge the assumptions, encourage critical thinking. </br>
 4. Iterate and refine. As you encounter the root cause, re-evaluate everything to make sure you are getting the deepest root cause. </br>
+
+---
+
+### [Day 6:](https://30daysofpm.substack.com/p/day6)
+
+### Product Discovery
+
+Product discovery is the process of understanding the problem, the user, and the market. </br>
+
+#### Difference between Product Discovery and Product Thinking
+
+Product Thinking = A broad framework considering the entire product. </br>
+Product Discovery = it's more focused, dealing with validating the specific ideas and features, backed by data. </br>
+
+It's like a topic within Product Thinking. </br>
+
+#### Product Discovery Steps
+
+1. **Empathy and Understanding:** Understand the user's needs and emotions. </br>
+2. **Clarifying the problem:** Nail down one sentence that covers the entire problem. </br>
+3. **Make sure you are solving the right problem:** How big is the problem for the user. </br>
+4. **Priorating the problem:** What user's problem to solve first. </br>
+5. **Reframing the problem:** Reframe the user's problem into chunks that can be solved, then figure out a plan to solve them. </br>
+6. **Prototyping:** Create a prototype to quick test the solution with the users. </br>
+7. **Verify the tests:** Verify the tests with the users to analyze if the proposed solution is solving the problem. </br>
+
+---
