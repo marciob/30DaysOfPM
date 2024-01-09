@@ -198,3 +198,27 @@ So it's a way to solve problems in a user-centric way, instead of problem-based.
 3. **Ideate:** Brainstorming ideas to solve the problem. </br>
 4. **Prototype:** Create a prototype to investigate the ideas. </br>
 5. **Test:** Test the prototype with the users to see if it solves the problem. This phase is experimental, so it isn't about perfection, but seeing which parts work and which don't. </br>
+
+---
+
+### [Day 8:](https://30daysofpm.substack.com/p/day8)
+
+### JTBD (Jobs to be Done) Framework
+
+It's a framework to understand the user's needs and real motivations when using a product. </br>
+
+#### How to use it?
+
+<img src="/images/when.png" width="500" alt="JTBD Framework">
+
+When I ... (context) </br>
+But ... (barrier) </br>
+Help me ... (goal) </br>
+So I ... (outcome) </br>
+
+### Tips to use it
+
+1. **Clear audience definition:** Narrow down the audience to a specific group of people, with clear characteristics, without risk of being too broad. </br>
+2. **Do market research:** Understand the audience, what they currently are using to solve the problem and where they feel the most pain. </br>
+3. **Talk to the users:** Using surveys, interviews, etc, identify the user's mindset and decision process. </br>
+4. **Prioritize the JTBD**: Prioritize the JTBD based on the user's pain points and the business goals. </br>
