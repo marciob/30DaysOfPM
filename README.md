@@ -222,3 +222,12 @@ So I ... (outcome) </br>
 2. **Do market research:** Understand the audience, what they currently are using to solve the problem and where they feel the most pain. </br>
 3. **Talk to the users:** Using surveys, interviews, etc, identify the user's mindset and decision process. </br>
 4. **Prioritize the JTBD**: Prioritize the JTBD based on the user's pain points and the business goals. </br>
+
+### Example - Discord product
+
+**When I** want to play a game </br>
+**But** I don't know if there are people around to play, </br>
+**Help me** to coordinate with other people to play, </br>
+**So I** can easily find a way to enjoy my favorite game. </br>
+
+This suggest features like making it easy to find people through the search serves and switching easily from text to voice chat. </br>
