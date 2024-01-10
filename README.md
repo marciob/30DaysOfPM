@@ -267,3 +267,32 @@ Some benefits of doing user research (talk to users): </br>
 - **Online surveys:** some questions to a large number of users, to identify patterns. It tells an average of the user's behavior. </br>
 
 ---
+
+### [Day 10:](https://30daysofpm.substack.com/p/day10)
+
+### How to do user interviews
+
+#### Types of user interviews
+
+- **Structured:** You follow a list of questions. Sometimes even a script. The collected data is more quantitative. </br>
+- **Semi-structured:** It's more flexible, you prepare a list of questions but they can be adjusted during the interview. </br>
+- **Exploratory:** Open-ended questions, it flows as a natural conversation. Useful to uncover new insights. </br>
+
+#### Things to take into account while doing user interviews
+
+- **Define the goal and scope:** What do you want to learn from the user? Plan the questions accordingly. </br>
+- **Find participants:** Find people who fit the target audience. Don't ask friends or family, they might be biased. </br>
+- **Give participants context:** Explain the purpose of the interview and scope, but don't give too much information that might bias the user. </br>
+- **Analyze the data:** After the interviews, analyze the data to find patterns and insights. </br>
+- **Summarize in personas:** Use the insights from the interviews to create personas. </br>
+- **Follow up:** After the interviews, follow up with the participants to thank them, let them know how their feedback will be used and keep them updated about the project. </br>
+
+#### Initial introduction template
+
+- **begin with a brief introduction:** "Hi, this is **_, from _**(company)\_\_\_. Is it a good time to talk?" </br>
+- **thank the user for their time and tell how important it is:** "First of all, I'd like to thank you for talking with me today. It's incredible valuable for me to get, to listen to you talk to me through your personal experience and how things work (and don't work) in your world, so I really appreciate it." </br>
+- **ask an overview question:** "Could you start by telling me a little bit about how you \_**\_(perform general task)\_\_** currently? </br>
+
+#### Sample questions
+
+<img src="/images/sample_q.png" width="500" alt="Sample questions">
