@@ -289,9 +289,9 @@ Some benefits of doing user research (talk to users): </br>
 
 #### Initial introduction template
 
-- **begin with a brief introduction:** "Hi, this is **_, from _**(company)\_\_\_. Is it a good time to talk?" </br>
+- **begin with a brief introduction:** "Hi, this is \_\_\_\_\_, from \_\_\_\_\(company)\_\_\_. Is it a good time to talk?" </br>
 - **thank the user for their time and tell how important it is:** "First of all, I'd like to thank you for talking with me today. It's incredible valuable for me to get, to listen to you talk to me through your personal experience and how things work (and don't work) in your world, so I really appreciate it." </br>
-- **ask an overview question:** "Could you start by telling me a little bit about how you \_**\_(perform general task)\_\_** currently? </br>
+- **ask an overview question:** "Could you start by telling me a little bit about how you \_\_\_\_\_(perform general task)\_\_\_\_\_ currently? </br>
 
 #### Sample questions
 
