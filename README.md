@@ -295,4 +295,4 @@ Some benefits of doing user research (talk to users): </br>
 
 #### Sample questions
 
-<img src="/images/sample_q.png" width="500" alt="Sample questions">
+<img src="/images/sample_q.jpeg" width="500" alt="Sample questions">
