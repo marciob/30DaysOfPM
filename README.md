@@ -265,3 +265,5 @@ Some benefits of doing user research (talk to users): </br>
 - **Usability testing:** watching users using the product to understand how they use it and what problems they have. </br>
 - **User interviews:** usually 30min to 1h, speaking to one user at a time, face to face or remotely. Misunderstandings can be clarified immediately. A downside is that it's time-consuming and expensive. </br>
 - **Online surveys:** some questions to a large number of users, to identify patterns. It tells an average of the user's behavior. </br>
+
+---
