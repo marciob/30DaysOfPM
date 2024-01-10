@@ -231,3 +231,37 @@ So I ... (outcome) </br>
 **So I** can easily find a way to enjoy my favorite game. </br>
 
 This suggest features like making it easy to find people through the search serves and switching easily from text to voice chat. </br>
+
+---
+
+### [Day 9:](https://30daysofpm.substack.com/p/day9)
+
+### User Research
+
+Some benefits of doing user research (talk to users): </br>
+
+- save development, time and redesign costs
+- increase the chances of user satisfaction
+- increase conversion rates
+- gets qualitative feedback
+- help to understand what matters to the user
+- gain competitive advantage
+- help to make product easier to use, shorter learning curve for the user
+- improve UI/UX
+
+#### User Research Methods
+
+- **Qualitative research:** It gets direct feedback from the users. Ex.: interviews, focus groups, etc. </br>
+- **Quantitative research:** It gets data from the users. Ex.: surveys, analytics, etc. </br>
+
+#### Two types of user research approaches
+
+- **Attitudinal:** listening to users' words, ex.: interviews, focus groups, etc. </br>
+- **Behavioral:** observing users' actions, ex.: watching users using the product, A/B testing, etc. </br>
+
+#### Some user research methods applied
+
+- **Studying data:** if you collect data, then you can analyze it to understand the user's behavior. </br>
+- **Usability testing:** watching users using the product to understand how they use it and what problems they have. </br>
+- **User interviews:** usually 30min to 1h, speaking to one user at a time, face to face or remotely. Misunderstandings can be clarified immediately. A downside is that it's time-consuming and expensive. </br>
+- **Online surveys:** some questions to a large number of users, to identify patterns. It tells an average of the user's behavior. </br>
