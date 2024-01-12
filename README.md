@@ -296,3 +296,34 @@ Some benefits of doing user research (talk to users): </br>
 #### Sample questions
 
 <img src="/images/sample_q.jpeg" width="500" alt="Sample questions">
+
+---
+
+### [Day 11:](https://30daysofpm.substack.com/p/day11)
+
+### User Segmentation
+
+Dividing the users into groups based on their characteristics. </br>
+
+#### How doing user segmentation can be useful?
+
+it helps to understand each group needs and behaviors, so you can tailor the product to each group. </br>
+
+sometimes it's not possible to satisfy all the users, so it's important to know which group to focus on. </br>
+
+#### example of using user segmentation data
+
+per example, if you only can add 3 new features to a community swimming pool (product example), you should focus on the group that uses the pool the most, and features that benefit also the other groups. </br>
+
+example of choosing the new features: </br>
+
+<img src="/images/features.jpeg" width="500" alt="Choosing Features">
+
+#### How to segment users?
+
+Types of user segmentation: </br>
+
+- **Demographic**: gender, location, age, income, language, etc. </br>
+- **Device**: mobile, desktop, etc. </br>
+- **Acquisition source**: how the user found the product, ex.: social media, search engine, etc. </br>
+- **Usage patterns**: how often the user uses the product, how long, etc. </br>
