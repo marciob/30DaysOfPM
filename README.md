@@ -327,3 +327,39 @@ Types of user segmentation: </br>
 - **Device**: mobile, desktop, etc. </br>
 - **Acquisition source**: how the user found the product, ex.: social media, search engine, etc. </br>
 - **Usage patterns**: how often the user uses the product, how long, etc. </br>
+
+---
+
+### [Day 12:](https://30daysofpm.substack.com/p/day12)
+
+### User Personas
+
+it's a fictional character that represents a group of users. </br>
+
+#### Why use user personas?
+
+well-defined personas help to address the user's needs and behaviors. </br>
+
+#### Questions to ask when creating a persona
+
+- who is my ideal customer? </br>
+- what are the current behaviors of my ideal customer? </br>
+- what are the goals of my users? </br>
+- what issues do my users face? </br>
+
+#### How to create a persona?
+
+- **Who is the uses?** demographic data.
+- **What are the user's goals?** what the user wants to achieve.
+- **What are the user's pain points and challenge?** what are the user's problems.
+- **Activity and experiences of the user:** what the user does, what the user likes, etc.
+
+#### Example of a persona
+
+- **Name:** Sakshi </br>
+- **Age:** 23 </br>
+- **Location:** Lives in Bangalore, India </br>
+- **Profession:** Works as a software engineer full-time </br>
+- **Goals:** Wants to migrate to Product Management role </br>
+- **Pain points:** Doesn't know how to get started </br>
+- **Activity and experiences:** Spends her time on Linkedin and Twitter interacting with people in tech. </br>
