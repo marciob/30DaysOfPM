@@ -363,3 +363,11 @@ well-defined personas help to address the user's needs and behaviors. </br>
 - **Goals:** Wants to migrate to Product Management role </br>
 - **Pain points:** Doesn't know how to get started </br>
 - **Activity and experiences:** Spends her time on Linkedin and Twitter interacting with people in tech. </br>
+
+---
+
+### [Day 13:](https://30daysofpm.substack.com/p/day13)
+
+### User Research Analysis
+
+#### How to analyze user research data?
