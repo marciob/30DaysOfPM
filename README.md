@@ -370,4 +370,31 @@ well-defined personas help to address the user's needs and behaviors. </br>
 
 ### User Research Analysis
 
-#### How to analyze user research data?
+It consists of analyzing all the data collected from the user research and finding patterns and insights. </br>
+
+---
+
+### [Day 14:](https://30daysofpm.substack.com/p/day14)
+
+### Visualizing Data
+
+Besides understanding the data, a PM needs to be able to communicate it to others. </br>
+
+Empathy map is a tool to visualize and communicate the data in a quick way. </br>
+
+#### Empathy Map
+
+<img src="/images/empathy_map.png" width="500" alt="Empathy Map">
+
+#### How to use it?
+
+- **Says:** it's what the user says directly. </br>
+- **Thinks:** it captures what user is thinking throughout the experience. </br>
+- **Does:** it's what the user does, their actions. </br>
+- **Feels:** it's the emotion state of the user. </br>
+
+#### Why use it?
+
+- it helps to categorize and makes sense of qualitative research. </br>
+- discover gaps in the current research. </br>
+- it helps to create personas. </br>
