@@ -398,3 +398,11 @@ Empathy map is a tool to visualize and communicate the data in a quick way. </br
 - it helps to categorize and makes sense of qualitative research. </br>
 - discover gaps in the current research. </br>
 - it helps to create personas. </br>
+
+---
+
+### [Day 15:](https://30daysofpm.substack.com/p/day15)
+
+### Problem Statement
+
+It's a clear and short description of the problem that the product is trying to solve. </br>
