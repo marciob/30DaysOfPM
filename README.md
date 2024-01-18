@@ -406,3 +406,30 @@ Empathy map is a tool to visualize and communicate the data in a quick way. </br
 ### Problem Statement
 
 It's a clear and short description of the problem that the product is trying to solve. </br>
+
+#### Why have a problem statement?
+
+- focus on the problem, not the solution. </br>
+- inspire the team to solve the problem. </br>
+- prevent misunderstandings. </br>
+
+#### How to write a problem statement?
+
+**have a clear problem:** it should be clear what the problem is. </br>
+**explain the relevance of the problem:** needs to communicate why it matters to the business and the potential dangers if it's unsolved. </br>
+Some questions that might clarify: </br>
+
+- who will feel the consequences of the problem? </br>
+- what is the impact of the problem? </br>
+- does the problem affect other areas of the business? </br>
+- does the problem impact wider society? </br>
+- how solving the problem increase our understanding of the business? </br>
+
+**back the problem with data:** use data to back up the problem and make it evident to everyone. </br>
+
+#### Problem statement template
+
+- **Problem:** describe the problem in one sentence. </br>
+- **Backed by data:** use data to back up the problem. </br>
+- **Relevance:** explain why the problem matters. </br>
+- **Objectives:** in your conclusion, propose solutions to the problem based on your research and understanding of it. </br>
