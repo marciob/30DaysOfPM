@@ -433,3 +433,29 @@ Some questions that might clarify: </br>
 - **Backed by data:** use data to back up the problem. </br>
 - **Relevance:** explain why the problem matters. </br>
 - **Objectives:** in your conclusion, propose solutions to the problem based on your research and understanding of it. </br>
+
+---
+
+### [Day 16:](https://30daysofpm.substack.com/p/day16)
+
+### The Ideation Process
+
+It's the third step of the Design Thinking process. </br>
+
+It's not about finding the best solution, but generating as many ideas as possible. </br>
+
+#### "How Might We" Framework
+
+While there are many ways to generate ideas, one of the most popular is the "How Might We" framework. </br>
+
+It's a way to reframe the problem into a question that can be answered with a solution. </br>
+
+#### Examples
+
+**Problem:** I want to go to the supermarket. </br>
+**How might we:** make it easier to go to the supermarket? </br>
+**Solution:** I can order online and get it delivered. </br>
+
+**Problem:** Users are not engaging with the app. </br>
+**How might we:** increase user engagement? </br>
+**Solution:** Add a new feature that users will like. </br>
