@@ -459,3 +459,25 @@ It's a way to reframe the problem into a question that can be answered with a so
 **Problem:** Users are not engaging with the app. </br>
 **How might we:** increase user engagement? </br>
 **Solution:** Add a new feature that users will like. </br>
+
+---
+
+### [Day 17:](https://30daysofpm.substack.com/p/day17)
+
+### Storyboarding
+
+It's a way to visualize the user's journey through the product. </br>
+
+#### Why use storyboarding?
+
+- it helps to understand the user's journey. </br>
+- it helps to identify problems and opportunities. </br>
+- it helps to communicate the user's journey to others. </br>
+
+#### How to create a storyboard?
+
+- **define the user's goal:** what the user wants to achieve. </br>
+- **define the user's journey:** what steps the user takes to achieve the goal. </br>
+- **identify problems and opportunities:** what problems the user faces and what opportunities there are to improve the user's journey. </br>
+
+---
