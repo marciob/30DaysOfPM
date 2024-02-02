@@ -603,3 +603,206 @@ It's a assumption that you can test. </br>
 - **Expected outcome:** users will engage more with the app. </br>
 
 ---
+
+### [Day 23:](https://30daysofpm.substack.com/p/day23)
+
+### Metrics
+
+It's important to define the metrics that you will use to measure the success of the product. </br>
+
+#### KPIs (Key Performance Indicators)
+
+It's a measurable value that demonstrates how effectively a company is achieving key business objectives. </br>
+
+#### Some examples of KPIs
+
+- **Acquisition:** how many new users are you getting. </br>
+- **Activation:** how many users are using the product. </br>
+- **Retention:** how many users are coming back each day/week/month. </br>
+- **Referral:** how many users are referring the product to others. </br>
+- **Revenue:** how much money the product is making. </br>
+
+---
+
+### [Day 24:](https://30daysofpm.substack.com/p/day24)
+
+### Types of Metrics
+
+#### North Star Metric (NSM)
+
+- the main metric that the company uses to measure the success of the product. </br>
+
+#### Primary Metrics / L1 Metrics
+
+- they contribute directly to the NSM. </br>
+
+#### Secondary Metrics / L2 Metrics
+
+- they contribute indirectly to the NSM. </br>
+- they indicate that the product is moving in the right direction. </br>
+
+#### Some metrics you should know
+
+- **DAU (Daily Active Users):** how many users are using the product each day. </br>
+- **MAU (Monthly Active Users):** how many users are using the product each month. </br>
+- **Churn Rate:** how many users are leaving the product. </br>
+- **Conversion Rate:** how many users are converting. </br>
+- **Bounce Rate:** how many users are leaving the product after visiting only one page. </br>
+- **Session Duration:** how long the user is using the product. </br>
+- **Average Revenue Per User:** how much money the product is making per user. </br>
+- **Net Promoter Score:** how likely the user is to recommend the product to others. </br>
+- **Customer Acquisition Cost:** how much money the company is spending to acquire a new user. </br>
+- **Customer Lifetime Value:** how much money the company is making from a user over their lifetime. </br>
+- **Retention Rate:** how many users are coming back to the product. </br>
+- **Awareness:** how many people are aware of the product. </br>
+- **Acquisition:** how many new users are you getting. </br>
+- **Activation:** how many users are using the product. </br>
+- **Engagement:** how many users are engaging with the product. </br>
+- **Revenue:** how much money the product is making. </br>
+- **Referral:** how many users are referring the product to others. </br>
+
+---
+
+### [Day 25:](https://30daysofpm.substack.com/p/day25)
+
+### Funnel Analysis
+
+It's a way to understand the flow of the user through the product up to the conversion. </br>
+
+#### Example of a funnel
+
+- **Step 1:** user opens an email and see your offer. </br>
+- **Step 2:** user clicks on the link and goes to the landing page. </br>
+- **Step 3:** user clicks on CTA and goes to the sign-up page. </br>
+- **Step 4:** user signs up and uses the product for free. </br>
+- **Step 5:** user becomes a paying user after the trial expires. </br>
+
+#### Cohort Analysis
+
+It's a way to understand how different groups of users behave over time. </br>
+
+#### Example of a cohort
+
+- **Cohort 1:** users who have notifications enabled. </br>
+  they might have a higher retention rate. </br>
+
+---
+
+### [Day 26:](https://30daysofpm.substack.com/p/day26)
+
+### OKRs (Objectives and Key Results)
+
+A way to define and track objectives and their outcomes. </br>
+
+#### How to define OKRs?
+
+- **Objectives:** what you want to achieve. </br>
+- **Key Results:** are how you will accomplish it. </br>
+
+---
+
+### [Day 27:](https://30daysofpm.substack.com/p/day27)
+
+### RICE Framework (reach, impact, confidence and effort)
+
+A framework to help on prioritization, it evaluates an average rate for a feature or project.
+
+### Why prioritization is difficult
+
+- It's more enjoyable to work on personal favorite projects rather than on ones that benefit a lot of people.
+- It’s tempting to focus on clever ideas, instead of projects that directly impact your goals.
+- It's more appealing to explore new ideas than to focus on projects you're already sure about.
+- It's easy to underestimate the extra effort some projects require compared to others.
+
+#### Reach
+
+- realistic estimate how many people each project will affect within a given period.
+
+#### Impact
+
+- how many impact it will have on costumer.
+
+#### Confidence
+
+- it measures how much confident you are with this and your estimatives.
+
+#### Effort
+
+- estimate the total ammount of time a project will require from all members of your team.
+
+#### Example of applying RICE
+
+<img src="/images/rice.png" width="500" alt="RICE Framework">
+
+---
+
+### [Day 28:](https://30daysofpm.substack.com/p/day28)
+
+### PRD - Product Requirements Document
+
+It outlines the purpose, features, and functionality of a product to guide its development. </br>
+Different teams use the PRD to know better the product for each specific purpose. </br>
+
+### How to write a PRD
+
+- **1. Define the product:** summarize your plan, purposes, description, target audience, the buyer person, how the product create values, etc. </br>
+- **2. Determine goals:** write the objectibes for the product development process. </br>
+- **3. Identify assumptions and constraints:** identifying those assumptions and constraints that you will meet during the product development process helps you to be more precise and have right expectations. </br>
+- **4. Limit the scope of work:** defining boundaries will help to keep the project on track and the team focused. </br>
+- **5. List features:** defining primary features helps to see how users will use the product. </br>
+- **6. Define released criteria:** those are the criteria that will make the product ready to be released. It helps to make you confident that you are launching a quality project that will target audience excited to use that. </br>
+- **7. Set metrics for sucess:** metrics that will let you know that you are in the correct path. </br>
+
+---
+
+### [Day 29:](https://30daysofpm.substack.com/p/day29)
+
+### Growth Loop
+
+It's a way to generate growth for the product in a repetitive way. </br>
+
+#### Example of a growth loop
+
+- **Step 1:** user subscribes to a 30 Days of PM newsletter. </br>
+- **Step 2:** user reads the newsletter and shares it on Twitter daily. </br>
+- **Step 3:** user's followers see the tweet and subscribe to the newsletter. (back to step 1) </br>
+
+Loops are sustainable and scalable. It creates a compounding effect. </br>
+Not all loops are created equal, and not all loops are sustainable. </br>
+
+---
+
+### [Day 30:](https://30daysofpm.substack.com/p/day30)
+
+### Product Led Growth - PLG
+
+A strategy to grow the product by focusing on the product itself. </br>
+The idea is that the product by itself can generate growth by being a good product. </br>
+
+#### Engage happens before the monetization in a PLG strategy
+
+In a Sales-Led model, the monetization happens before the engagement. </br>
+
+<img src="/images/sales_model.png" width="500" alt="sales-led model">
+
+In a PLG strategy, the engagement happens before the monetization. </br>
+
+<img src="/images/plg_model.png" width="500" alt="PLG model">
+
+#### Examples of PLG strategies companies
+
+- Calendly
+- Slack
+- Notion
+- Typeform
+
+#### Some metrics to measure PLG
+
+- **Acquisition:** number of users who signed up for a free experience. </br>
+- **Activation:** number of users who have a successful first experience. </br>
+- **CLV - Customer Lifetime Value:** how much money the company is making from a user over their lifetime. </br>
+- **TTV - Time to Value:** how long it takes for a user to get value from the product, reaching his activation moment. The goal is that the time is as short as possible. </br>
+- **Free to Paid Conversion Rate:** the percentage of users are converting from free to paid. </br>
+- **Expansion Revenue:** how much money the company is making from the already existing users. It helps to compensate the cost of churn. </br>
+- **Net Revenue Churn:** how much money the company is losing after the expansion revenue. </br>
+- **ARPU - Average Revenue Per User:** how much money the product is making per user. </br>
