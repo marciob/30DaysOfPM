@@ -481,3 +481,125 @@ It's a way to visualize the user's journey through the product. </br>
 - **identify problems and opportunities:** what problems the user faces and what opportunities there are to improve the user's journey. </br>
 
 ---
+
+### [Day 18:](https://30daysofpm.substack.com/p/day18)
+
+### Validating Ideas
+
+It's important to validate the ideas before investing time and resources. </br>
+
+#### Some questions to ask when validating ideas
+
+- **Is the idea solving the right problem?** </br>
+  You should think if it's a product that should be built. </br>
+  Also, if it's possible to create a business around it. </br>
+
+- **Is the idea solving the problem in the right way?** </br>
+
+- **Is the idea solving the problem in the right time?** </br>
+
+#### Some ways to validate ideas
+
+- **Sign-up page:** create a sign-up page for the product and see how many people sign up. </br>
+- **Landing page:** create a landing page for the product and capture the user's email, and see how many people sign up. </br>
+
+If you don't get enough sign-ups, it might be a sign that the idea is not good. </br>
+
+#### MVP (Minimum Viable Product)
+
+It's a minimal version of the product that has only the essential features. </br>
+
+---
+
+### [Day 19:](https://30daysofpm.substack.com/p/day19)
+
+### Design
+
+As a PM, it's important to understand the principles of design and having a good eye for design. </br>
+
+#### Design principles
+
+Everyone can tell if something is well designed or not, but not everyone can explain or express why. </br>
+
+Principles of design can help to understand why something is well designed. </br>
+
+#### Some design principles
+
+- **Scale:** it's the size of the elements. In other words, most important elements should be bigger than less important elements. </br>
+
+- **Visual hierarchy:** it's the order in which the user's eyes perceive what they see. </br>
+  It can be implemented through scale, color, contrast, placement, etc. </br>
+
+- **Balance:** it's the distribution of the visual weight of the elements. </br>
+  It can be symmetrical or asymmetrical. </br>
+
+- **Contrast:** it's the difference between the elements, ex.: light and dark colors. </br>
+
+- **Gestalt principles:** it's a set of principles that describe how the human eye simplifies and organizes complex images. </br>
+
+---
+
+### [Day 20:](https://30daysofpm.substack.com/p/day20)
+
+### Wireframes
+
+It's a visual guide that represents the skeletal framework of a website or digital product. </br>
+
+### When and why to use wireframes?
+
+It's an easy way to communicate the layout of the product. </br>
+Way better than a written description. </br>
+You still might need to explain the wireframe, but it's easier to explain a visual than a written description. </br>
+
+---
+
+### [Day 21:](https://30daysofpm.substack.com/p/day21)
+
+### A/B Testing
+
+It's a way to compare two versions of a product to see which one performs better. </br>
+In this way, you can get feedback from the users even without their active knowledge. </br>
+
+### Examples of A/B Testing
+
+- **Color of the button:** you can test if the color of the button affects the user's behavior. </br>
+- **Call to action:** you can test if the call to action affects the user's behavior. </br>
+- **Social proof:** you can test if the social proof affects the user's behavior. </br>
+- **Images:** you can test if the images affect the user's behavior. </br>
+- **Layout:** you can test if the layout affects the user's behavior. </br>
+- **Pop-ups:** you can test if the pop-ups affect the user's behavior. </br>
+- **Pricing:** you can test if the pricing affects the user's behavior. </br>
+- **Badges:** you can test if the badges affect the user's behavior. </br>
+- **Announment bars:** you can test if the announcement bars affect the user's behavior. </br>
+
+### How to do A/B Testing?
+
+- **Define the goal:** what you want to achieve with the A/B test. </br>
+- **Look at your current data:** to understand the current user's behavior. </br>
+- **Create the variations:** create the two versions of the product. </br>
+- **See the results:** see which version performs better. </br>
+
+For testing, you can make the change for something like 20% of the users, and see how it performs. </br>
+Even if there is a good change, but still a small difference, like 5%, it might not be worth to make the change. </br>
+
+---
+
+### [Day 22:](https://30daysofpm.substack.com/p/day22)
+
+### Product hypothesis
+
+It's a assumption that you can test. </br>
+
+#### How to write a product hypothesis?
+
+- **State the problem:** what is the problem that you are trying to solve. </br>
+- **State the solution:** what is the solution that you are proposing. </br>
+- **State the expected outcome:** what is the expected outcome of the solution. </br>
+
+#### Example of a product hypothesis
+
+- **Problem:** users are not engaging with the app. </br>
+- **Solution:** add a new feature that users will like. </br>
+- **Expected outcome:** users will engage more with the app. </br>
+
+---
